@@ -1,5 +1,5 @@
 # stackImplementation
-Implementation of a Stack with Java
+Implementation of a Stack using lists with Java
 
 This stack implementation has 4 methods:
 
